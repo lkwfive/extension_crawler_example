@@ -7,3 +7,4 @@ async function run() {
 }
 run();
 // test1
+// test2
