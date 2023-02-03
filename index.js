@@ -6,3 +6,4 @@ async function run() {
 	await page.goto('https://baidu.com');
 }
 run();
+// test1
